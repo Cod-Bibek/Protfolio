@@ -37,7 +37,7 @@ Driven by a passion for data, I am an enthusiastic Data Analyst with a knack for
 - Maintained database integrity, assessed risks related to potential misuse, and communicated findings with stakeholders to safeguard data security and compliance.
 - Demonstrated strong debugging skills by identifying and resolving issues in data analysis processes and visualizations, ensuring accurate and reliable outcomes.
 
-## Innovint Pty Ltd | 06/2022 - 05/2023
+## Precision Industries | 06/2022 - 05/2023
 - Providing superior internal as well as external IT service, over the phone, in person and online in the execution of all tasks by displaying courtesy and responsiveness
 - Ensuring that all processing schedules and system backups are completed in correct and timely manner
 - Installing and configuring computer hardware, software printers and scanners. Also resolving any technical issues associated with them.
